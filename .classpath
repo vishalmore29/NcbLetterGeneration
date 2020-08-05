@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/docxtopdf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql connector"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apache poi"/>
+	<classpathentry kind="lib" path="D:/Java Libraries/PDF Jar/org.apache.poi.xwpf.converter.pdf-gae-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java Libraries/PDF Jar/org.apache.poi.xwpf.converter.core-gae-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java Libraries/poi-bin-4.1.1-20191023 (1)/poi-4.1.1/lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Java Libraries/PDF Jar/fr.opensagres.xdocreport.itext.extension-gae-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java Libraries/PDF Jar/itext-gae-4.2.0-1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Libraries/poi-bin-4.1.1-20191023 (1)/poi-4.1.1/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java Libraries/poi-bin-4.1.1-20191023 (1)/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
